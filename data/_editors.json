@@ -1,13 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "GeoxisGMD",
+        "link": "https://www.youtube.com/@GeoxisGMD"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "owner",
+        "name": "Zite",
+        "link": "https://www.youtube.com/@zitegmd"
     },
     {
         "role": "helper",
