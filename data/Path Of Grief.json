@@ -1,17 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
+    "id": 123605415,
+    "name": "Path Of Grief",
+    "author": "Zite",
+    "creators": ["Zite", "SomeRandomPrsn"],
+    "verifier": "SomeRandomPrsn",
     "verification": "https://www.youtube.com/watch?v=N0xfJWgc1jQ",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100
-        }
+    "percentToQualify": 69,
+    "password": "Free To Copy",
+    "records": [    
     ]
 }

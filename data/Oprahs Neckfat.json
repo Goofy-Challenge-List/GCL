@@ -1,0 +1,22 @@
+{
+    "id": 115635822,
+    "name": "Oprahs Neckfat",
+    "author": "SomeRandomPrsn",
+    "creators": ["SomeRandomPrsn"],
+    "verifier": "SomeRandomPrsn",
+    "verification": "https://youtu.be/K3gKvm-xS7Y?si=30viSM8X4HnIp690",
+    "percentToQualify": "55",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100
+        }
+    ]
+}
