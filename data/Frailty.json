@@ -1,0 +1,17 @@
+{
+    "id": 123552046,
+    "name": "Frailty",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "Dylesxia",
+    "verification": "https://youtu.be/ujYkmB_W8vM",
+    "percentToQualify": "64",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://www.youtube.com/watch?v=PRJzeLoCnYU",
+            "percent": 100
+        }
+    ]
+}
