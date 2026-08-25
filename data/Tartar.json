@@ -5,8 +5,13 @@
     "creators": ["Dylesxia"],
     "verifier": "Sf7",
     "verification": "https://www.youtube.com/watch?v=3MDPTYPyadY",
-    "percentToQualify": "100",
+    "percentToQualify": "70",
     "password": "Free To Copy",
     "records": [
+           {
+            "user": "SomeRandomPrsn",
+            "link": "https://youtu.be/YVOjKHF66LI?si=cA2-0R4egsKYURVr",
+            "percent": 100
+        }
     ]
 }
