@@ -1,0 +1,17 @@
+{
+    "id": 122533982,
+    "name": "Fun Normal",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "Dylesxia",
+    "verification": "https://www.youtube.com/watch?v=TzW6ENyB4pU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://youtu.be/VMYUj6hzcHg",
+            "percent": 100
+        }
+    ]
+}
