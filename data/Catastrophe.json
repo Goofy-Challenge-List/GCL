@@ -1,0 +1,17 @@
+{
+    "id": 130321955,
+    "name": "Catastrophe",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "SomeRandomPrsn",
+    "verification": "https://www.youtube.com/watch?v=4ZrqYMZQsQk",
+    "percentToQualify": "62",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://www.youtube.com/watch?v=ET4A7oH9WVs",
+            "percent": 100
+        }
+    ]
+}
