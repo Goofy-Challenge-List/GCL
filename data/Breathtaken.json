@@ -1,0 +1,27 @@
+{
+    "id": 130838514,
+    "name": "Breathtaken",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "Dylesxia",
+    "verification": "https://www.youtube.com/watch?v=ifgWZzyjPLg",
+    "percentToQualify": "72",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "SomeRandomPrsn",
+            "link": "https://medal.tv/games/geometry-dash/clips/lRRAJN4qFeY6akXu-?invite=cr-MSxuYTMsNDA5MDIyMjgy&v=34",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://www.youtube.com/watch?v=rdNBAbWQNWo",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/jczJxxtZxrg?si=LIImjGNNicccj83W",
+            "percent": 100
+        }
+    ]
+}
