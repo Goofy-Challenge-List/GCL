@@ -1,0 +1,17 @@
+{
+    "id": 142484853,
+    "name": "C R A N K",
+    "author": "EpicPotatoesGMD",
+    "creators": ["EpicPotatoesGMD"],
+    "verifier": "EpicPotatoesGMD",
+    "verification": "https://www.youtube.com/watch?v=7q0G1se2nYI",
+    "percentToQualify": "72",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://youtu.be/sJWsTNlDA2A?si=xa3H6znQj8racX7p",
+            "percent": 100
+        }
+    ]
+}
