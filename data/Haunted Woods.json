@@ -1,0 +1,17 @@
+{
+    "id": 109484510,
+    "name": "Haunted Woods",
+    "author": "SomeRandomPrsn",
+    "creators": ["SomeRandomPrsn"],
+    "verifier": "SomeRandomPrsn",
+    "verification": "https://youtu.be/0_ZEtRhtEzM?si=rOgiYPiPtg_sszmZ",
+    "percentToQualify": "69",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://www.youtube.com/watch?v=-Z-_72icPsY",
+            "percent": 100
+        }
+    ]
+}
