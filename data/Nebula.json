@@ -1,0 +1,17 @@
+{
+    "id": 121286009,
+    "name": "Nebula",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/-pAECK2gPUQ?si=UI6xwZbYAnMKAlEj",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Geoxis",
+            "link": "https://youtu.be/lnbLai8WD7w?si=9ZjKLG-WsRW3ZvBO",
+            "percent": 100
+        }
+    ]
+}
