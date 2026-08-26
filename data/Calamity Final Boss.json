@@ -1,0 +1,22 @@
+{
+    "id": 122969983,
+    "name": "Calamity Final Boss",
+    "author": "Dylexsia",
+    "creators": ["Dylexsia"],
+    "verifier": "Dylexsia",
+    "verification": "https://youtu.be/LVqDACjT3PA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Sf7",
+            "link": "https://www.youtube.com/watch?v=cw4wJs2NVwg",
+            "percent": 100
+        },
+                      {
+            "user": "SomeRandomPrsn",
+            "link": "https://www.youtube.com/watch?v=sdDW7DDf50U",
+            "percent": 100
+        }
+    ]
+}
