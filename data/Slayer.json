@@ -1,0 +1,17 @@
+{
+    "id": 123510707,
+    "name": "Slayer",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "SomeRandomPrsn",
+    "verification": "https://www.youtube.com/watch?v=YR2A2Ozvj2I",
+    "percentToQualify": "61",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://www.youtube.com/watch?v=av5PfGXZSdg",
+            "percent": 100
+        }
+    ]
+}

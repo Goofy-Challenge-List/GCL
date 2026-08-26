@@ -1,0 +1,22 @@
+{
+    "id": 122476875,
+    "name": "Golden Vessel",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "Dylesxia",
+    "verification": "https://www.youtube.com/watch?v=LdcJeGGH6OQ",
+    "percentToQualify": "63",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://youtu.be/Zb19mKKdmK8",
+            "percent": 100
+        },
+        {
+            "user": "SomeRandomPrsn",
+            "link": "https://www.youtube.com/watch?v=gTLKXxZ6WAo",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 123512935,
+    "name": "Aquarius",
+    "author": "Sf7",
+    "creators": ["Sf7"],
+    "verifier": "Sf7",
+    "verification": "https://www.youtube.com/watch?v=zrmdiREuhjg",
+    "percentToQualify": "74",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "SomeRandomPrsn",
+            "link": "https://youtu.be/qvChzbRw2UI",
+            "percent": 100
+        }
+    ]
+}
