@@ -1,0 +1,17 @@
+{
+    "id": 122384682,
+    "name": "Dried",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "SomeRandomPrsn",
+    "verification": "https://www.youtube.com/watch?v=68xjhn21aHM",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://youtu.be/NJSVuktHlIM",
+            "percent": 100
+        }
+    ]
+}
