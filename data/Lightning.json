@@ -1,0 +1,22 @@
+{
+    "id": 121499421,
+    "name": "Lightning",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/kbwK5i7ARkE?si=PKu-dAuKpkr68LDj",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://youtu.be/ay1mWfeZCDA",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/PqCpr5MFepg?si=UgJd1AbdNie0Ajed",
+            "percent": 100
+        }
+    ]
+}
