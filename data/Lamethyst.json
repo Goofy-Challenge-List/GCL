@@ -1,0 +1,22 @@
+{
+    "id": 122145258,
+    "name": "Lamethyst",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "Dylesxia",
+    "verification": "https://www.youtube.com/watch?v=tSlV5kp7dCg",
+    "percentToQualify": "58",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://youtu.be/6EOuPkGhphs",
+            "percent": 100
+        },
+        {
+            "user": "SomeRandomPrsn",
+            "link": "https://youtu.be/49K22xxNVIA?si=DVGp3WpLQ8M0A9CZ",
+            "percent": 100
+        }
+    ]
+}
