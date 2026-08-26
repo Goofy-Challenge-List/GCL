@@ -1,0 +1,17 @@
+{
+    "id": 122953576,
+    "name": "Flymaster",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "sf7",
+    "verification": "https://www.youtube.com/watch?v=vOKyapr816M",
+    "percentToQualify": "64",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "SomeRandomPrsn",
+            "link": "https://www.youtube.com/watch?v=qTXxzQy8NtQ",
+            "percent": 100
+        }
+    ]
+}
