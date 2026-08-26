@@ -1,0 +1,17 @@
+{
+    "id": 123070288,
+    "name": "The Abyss",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "Dylesxia",
+    "verification": "https://youtu.be/d-06aTla7Pc",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://youtu.be/H4ZiHFHMyeY",
+            "percent": 100
+        }
+    ]
+}
