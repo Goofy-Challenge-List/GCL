@@ -1,0 +1,27 @@
+{
+    "id": 119778697,
+    "name": "Massacre",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/i-rLiVAQPyA?si=9PtN55eWaOe7_7sT",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Dylesxia",
+            "link": "https://youtu.be/xE6GW-_xRpE?feature=shared",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/1woIB8n11g4",
+            "percent": 100
+        },
+        {
+            "user": "Sf7Geoxis",
+            "link": "https://youtu.be/8VpqirWK86k?si=rE8XN3q1nWnGo4Jm",
+            "percent": 100
+        }
+    ]
+}
