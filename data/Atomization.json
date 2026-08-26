@@ -1,0 +1,22 @@
+{
+    "id": 132158084,
+    "name": "Atomization",
+    "author": "Joshuao",
+    "creators": ["Joshuao"],
+    "verifier": "Joshuao",
+    "verification": "https://drive.google.com/file/d/1QmLNO4cgZtPeipyZCWUTtQgz4O14t9st/view?usp=drive_link",
+    "percentToQualify": "67",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "SomeRandomPrsn",
+            "link": "https://www.youtube.com/watch?v=X1eU1T4xFZg",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://www.youtube.com/watch?v=E3g7UrVliK4",
+            "percent": 100
+        }
+    ]
+}
