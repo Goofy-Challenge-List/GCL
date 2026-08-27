@@ -1,0 +1,17 @@
+{
+    "id": 123517846,
+    "name": "Furnace",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/-pAECK2gPUQ?si=UI6xwZbYAnMKAlEj",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Geoxis",
+            "link": "https://youtu.be/GCkblLk2YXQ?si=-4wbOzY9Zb5BxuX_",
+            "percent": 100
+        }
+    ]
+}
