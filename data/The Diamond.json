@@ -1,0 +1,22 @@
+{
+    "id": 119588316,
+    "name": "The Diamond",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/MdDmNNkfzFM?si=rX6HP__qMbM1LEbR",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Geoxis",
+            "link": "https://youtu.be/EKkA4PxeqkY?si=-Jsjfmvl53uAMWkA",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/1IznR-BEVmY",
+            "percent": 100
+        }
+    ]
+}
