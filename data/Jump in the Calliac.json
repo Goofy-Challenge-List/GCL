@@ -1,0 +1,27 @@
+{
+    "id": 112983604,
+    "name": "Jump in the Calliac",
+    "author": "InfasaeGD",
+    "creators": ["InfasaeGD"],
+    "verifier": "Dylesxia",
+    "verification": "https://www.youtube.com/watch?v=yB2T718_Xpk",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Zite",
+            "link": "https://youtu.be/lrcZC9BGlIw?si=A5AZvXJr0lEoXyKw",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/StA8sP4K-VM",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/D3e8BSgaUk8?si=cs6PhRByCNQcL7TD",
+            "percent": 100
+        }
+    ]
+}
