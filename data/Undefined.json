@@ -1,0 +1,27 @@
+{
+    "id": 119643831,
+    "name": "Undefined",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/2KTneYWk04M?si=cFkClvbWW4huFkE3",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Dylesxia",
+            "link": "https://youtu.be/-8SrzgLxOf0?feature=shared",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/0XomHi8rYG4",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/RKvqEL943PM",
+            "percent": 100
+        }
+    ]
+}
