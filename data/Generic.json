@@ -1,0 +1,27 @@
+{
+    "id": 121845463,
+    "name": "Lightning",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://www.youtube.com/watch?v=kbwK5i7ARkE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Dylesxia",
+            "link": "https://youtu.be/B5tQzshevX4?feature=shared",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/hi2WHlHBq9A",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/oM5ssj2N4fE?si=zHaPdTY_-5KH7NHj",
+            "percent": 100
+        }
+    ]
+}
