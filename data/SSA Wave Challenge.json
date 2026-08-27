@@ -1,0 +1,22 @@
+{
+    "id": 120981179,
+    "name": "SSA Wave Challenge",
+    "author": "Geoxis",
+    "creators": ["Geoxis"],
+    "verifier": "Geoxis",
+    "verification": "https://youtu.be/LwSY1JYuSzg?si=K4_85_EfZno-XXO3",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Zite",
+            "link": "https://youtu.be/tGTSaFDzFB8?si=QZcJv3WS6rVj-84X",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/PpllS2DjKxY",
+            "percent": 100
+        }
+    ]
+}
