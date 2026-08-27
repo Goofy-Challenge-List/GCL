@@ -1,0 +1,22 @@
+{
+    "id": 122480633,
+    "name": "Corridor",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Dylesxia",
+    "verification": "https://www.youtube.com/watch?v=3T8IZw0MR50",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Sf7",
+            "link": "https://www.youtube.com/watch?v=1AoSaMcuTC4",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/lnbLai8WD7w?si=mzzlDcwek1_q4Opu",
+            "percent": 100
+        }
+    ]
+}
