@@ -1,0 +1,17 @@
+{
+    "id": 135111795,
+    "name": "SRP Challenge 2",
+    "author": "EpicPotatoesGMD",
+    "creators": ["EpicPotatoesGMD"],
+    "verifier": "EpicPotatoesGMD",
+    "verification": "https://youtu.be/wIBSLqoU-PQ?si=0lUsQdxiZ-UiOkgv",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                   {
+            "user": "Sf7",
+            "link": "https://youtu.be/VlGqMtO4YIc",
+            "percent": 100
+        }
+    ]
+}
