@@ -1,0 +1,27 @@
+{
+    "id": 121055710,
+    "name": "Challscapes",
+    "author": "Geoxis",
+    "creators": ["Geoxis"],
+    "verifier": "Geoxis",
+    "verification": "https://youtu.be/ILZGu6zpUMY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Zite",
+            "link": "https://youtu.be/PKTWMNFab2g?si=4lfBmMK6dyCksd-C",
+            "percent": 100
+        },
+        {
+            "user": "InfasaeGD",
+            "link": "https://youtu.be/sZe7AgwQUhg?feature=shared",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/U9lZRT92bBg",
+            "percent": 100
+        }
+    ]
+}
