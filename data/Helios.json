@@ -1,0 +1,27 @@
+{
+    "id": 121052167,
+    "name": "Helios",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/i-rLiVAQPyA?si=9PtN55eWaOe7_7sT",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                   {
+            "user": "Geoxis",
+            "link": "https://youtu.be/g5huyOMgybg?si=ggXr5MSHzyRNfGhJ",
+            "percent": 100
+        },
+        {
+            "user": "Dylesxia",
+            "link": "https://youtu.be/RJwKb05y5po?si=TsRUlCKODQw2o-g7",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/cHs1cBA9MbE?si=9TVRLj2ptyxSaBnx",
+            "percent": 100
+        }
+    ]
+}
