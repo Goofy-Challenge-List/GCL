@@ -1,0 +1,27 @@
+{
+    "id": 121656099,
+    "name": "Wavebreaker",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/PBQlh6txOhg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Dylesxia",
+            "link": "https://youtu.be/xsontoHquQE?feature=shared",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/yMnAM2vFv04",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/0Xj3EOWzKfM?si=B7SE-lNXivbqxBk5",
+            "percent": 100
+        }
+    ]
+}
