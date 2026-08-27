@@ -1,0 +1,27 @@
+{
+    "id": 121443919,
+    "name": "Fun Mini",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "Dylesxia",
+    "verification": "https://youtu.be/PxWa3ksBcrU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Zite",
+            "link": "https://youtu.be/eZ9PC6PZUD4?si=aO9XS0DtfN3Z3h-_",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/npfA42NsoD8",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/NwvzUKzVE58",
+            "percent": 100
+        }
+    ]
+}
