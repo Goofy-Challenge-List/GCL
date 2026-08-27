@@ -1,0 +1,27 @@
+{
+    "id": 121484851,
+    "name": "Unnamed 10000",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "Dylesxia",
+    "verification": "https://youtu.be/vudOCrMMN24",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Zite",
+            "link": "https://youtu.be/lrcZC9BGlIw?si=A5AZvXJr0lEoXyKw",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/TerGikZdWQI",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/EjRsLwANqZg?si=eH96B5q9VLbeu9SH",
+            "percent": 100
+        }
+    ]
+}
