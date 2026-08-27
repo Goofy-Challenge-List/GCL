@@ -1,0 +1,27 @@
+{
+    "id": 123431974,
+    "name": "Avogadro",
+    "author": "Geoxis",
+    "creators": ["Zite"],
+    "verifier": "Geoxis",
+    "verification": "https://youtu.be/sDSuSttCzh4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Zite",
+            "link": "https://youtu.be/gdEOm38uoa4?si=hkxOUbpTFsI1g7IO",
+            "percent": 100
+        },
+        {
+            "user": "Dylesxia",
+            "link": "https://youtu.be/NwG2cr1PxlM?feature=shared",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/-3kWcXNtFjg",
+            "percent": 100
+        }
+    ]
+}
