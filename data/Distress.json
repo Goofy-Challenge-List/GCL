@@ -1,0 +1,22 @@
+{
+    "id": 120647265,
+    "name": "Distress",
+    "author": "Geoxis",
+    "creators": ["Geoxis"],
+    "verifier": "Sf7",
+    "verification": "https://youtu.be/03r6MNOxBHo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Dylesxia",
+            "link": "https://youtu.be/SEE9KIZ7FR4",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/JGCVaTVFSrY?si=LbkB-V5ApKhNeQYi",
+            "percent": 100
+        }
+    ]
+}
