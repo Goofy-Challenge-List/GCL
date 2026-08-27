@@ -1,0 +1,17 @@
+{
+    "id": 123201971,
+    "name": "Time Lapse",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "Dylesxia",
+    "verification": "https://youtu.be/HcJB1giAMc8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://www.youtube.com/watch?v=wBVQNukVCqY",
+            "percent": 100
+        }
+    ]
+}

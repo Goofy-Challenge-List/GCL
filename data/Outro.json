@@ -1,0 +1,22 @@
+{
+    "id": 121918071,
+    "name": "Outro",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/kbwK5i7ARkE?si=PKu-dAuKpkr68LDj",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/cJRclYqT3hg",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/0Xj3EOWzKfM?si=08kPeBWKOgb0Ic8U",
+            "percent": 100
+        }
+    ]
+}
