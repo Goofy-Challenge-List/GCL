@@ -1,0 +1,17 @@
+{
+    "id": 123661938,
+    "name": "Concentration Room",
+    "author": "Geoxis",
+    "creators": ["Geoxis"],
+    "verifier": "Geoxis",
+    "verification": "https://youtu.be/SYNYpeI03l4?si=yDa9ymhPgjE2ptlB",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://youtu.be/60FKh8pamMo",
+            "percent": 100
+        }
+    ]
+}
