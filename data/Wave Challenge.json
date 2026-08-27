@@ -1,0 +1,22 @@
+{
+    "id": 120008555,
+    "name": "Wave Challenge",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/SMBf8o7H8fU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://youtu.be/DimVuBvb7V0",
+            "percent": 100
+        },
+        {
+            "user": "SomeRandomPrsn",
+            "link": "https://youtu.be/rwt14_LRcA8?si=Ky8f_2_-cW0xjQRC",
+            "percent": 100
+        }
+    ]
+}
