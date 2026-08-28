@@ -1,0 +1,27 @@
+{
+    "id": 121552700,
+    "name": "Facade",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "Dylesxia",
+    "verification": "https://youtu.be/BzfWdhe33rA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Geoxis",
+            "link": "https://youtu.be/aeKN6DMZ4o0",
+            "percent": 100
+        },
+        {
+            "user": "Zite",
+            "link": "https://youtu.be/V58YP4lFjSU?si=KDLFAkuGxnXQjbei",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/0But8lT8POw",
+            "percent": 100
+        }
+    ]
+}

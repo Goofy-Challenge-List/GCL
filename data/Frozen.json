@@ -1,0 +1,22 @@
+{
+    "id": 120008555,
+    "name": "Frozen",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/NADWErF8DCI?si=K5wVcSBnkbJ_7fVR",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Geoxis",
+            "link": "https://youtu.be/0bEWa1vPvNw",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/XlNVSWGSqmY",
+            "percent": 100
+        }
+    ]
+}
