@@ -1,0 +1,22 @@
+{
+    "id": 105378752,
+    "name": "Mobile Challenge",
+    "author": "SomeRandomPrsn",
+    "creators": ["SomeRandomPrsn"],
+    "verifier": "SomeRandomPrsn",
+    "verification": "https://youtu.be/erLcToeEb08?si=rcW9hkWQ4am25-Hw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Zite",
+            "link": "https://youtu.be/-pAECK2gPUQ?si=UI6xwZbYAnMKAlEj",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/jczJxxtZxrg?si=7zgdiO7ht2FNX2un",
+            "percent": 100
+        }
+    ]
+}
