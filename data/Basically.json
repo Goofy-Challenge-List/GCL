@@ -1,0 +1,27 @@
+{
+    "id": 121792410,
+    "name": "Basically",
+    "author": "Geoxis",
+    "creators": ["Geoxis"],
+    "verifier": "Geoxis",
+    "verification": "https://youtu.be/hp82YQj52gA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Zite",
+            "link": "https://youtu.be/kbwK5i7ARkE?si=PKu-dAuKpkr68LDj",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/5mVME62015o",
+            "percent": 99
+        },
+        {
+            "user": "SomeRandomPrsn",
+            "link": "https://youtu.be/YzzNTRUPXB0?si=4R2fUyvkRklkl0PN",
+            "percent": 100
+        }
+    ]
+}
