@@ -1,0 +1,27 @@
+{
+    "id": 121550548,
+    "name": "Crazy",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "Dylesxia",
+    "verification": "https://youtu.be/0t7oG1Vr9iE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Geoxis",
+            "link": "https://youtu.be/Mx8y2y0QVBc",
+            "percent": 100
+        },
+        {
+            "user": "Zite",
+            "link": "https://youtu.be/eZ9PC6PZUD4?si=aO9XS0DtfN3Z3h-_",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/l0MF0zTe7Tk",
+            "percent": 100
+        }
+    ]
+}
