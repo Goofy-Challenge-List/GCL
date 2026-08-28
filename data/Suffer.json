@@ -1,0 +1,22 @@
+{
+    "id": 121410583,
+    "name": "Suffer",
+    "author": "Dylesxia",
+    "creators": ["Dylesxia"],
+    "verifier": "Dylesxia",
+    "verification": "https://youtu.be/DMuHZZdbCv0",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Zite",
+            "link": "https://youtu.be/eZ9PC6PZUD4?si=aO9XS0DtfN3Z3h-_",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/by0K2wx0Yjc",
+            "percent": 100
+        }
+    ]
+}
