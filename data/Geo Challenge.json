@@ -1,0 +1,27 @@
+{
+    "id": 119341380,
+    "name": "Geo Challenge",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Geoxis",
+    "verification": "https://youtu.be/Bz_oDc5CkcE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Zite",
+            "link": "https://youtu.be/gdEOm38uoa4?si=hkxOUbpTFsI1g7IO",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/u3ZlIH3UnJ4",
+            "percent": 100
+        },
+        {
+            "user": "SomeRandomPrsn",
+            "link": "https://youtu.be/9Jdu_wLmB4Y?si=CNED7dvOxoKueDsu",
+            "percent": 100
+        }
+    ]
+}
