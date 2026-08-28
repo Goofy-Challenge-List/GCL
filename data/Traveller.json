@@ -1,0 +1,17 @@
+{
+    "id": 123283110,
+    "name": "Traveller",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/-pAECK2gPUQ?si=UI6xwZbYAnMKAlEj",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Geoxis",
+            "link": "https://youtu.be/IWNWZhojrvU?si=5Cm0imuzzxxcoU1V",
+            "percent": 100
+        }
+    ]
+}
