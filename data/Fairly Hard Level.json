@@ -1,0 +1,22 @@
+{
+    "id": 115726965,
+    "name": "Fairly Hard Level",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/u_7zVBSdomY?si=j59cBAIYBKKF3LPP",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Geoxis",
+            "link": "https://youtu.be/2Xq572YRePY",
+            "percent": 100
+        },
+        {
+            "user": "Sf7",
+            "link": "https://youtu.be/j-g-4fIVE2Q",
+            "percent": 100
+        }
+    ]
+}

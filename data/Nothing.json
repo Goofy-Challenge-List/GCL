@@ -1,0 +1,17 @@
+{
+    "id": 122980305,
+    "name": "Nothing",
+    "author": "Zite",
+    "creators": ["Zite"],
+    "verifier": "Zite",
+    "verification": "https://youtu.be/-pAECK2gPUQ?si=UI6xwZbYAnMKAlEj",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Sf7",
+            "link": "https://www.youtube.com/watch?v=Hz3DFe6VcE4",
+            "percent": 100
+        }
+    ]
+}
