@@ -126,3 +126,34 @@
 .page-list .meta .editors li a:hover {
     text-decoration: underline;
 }
+.page-list .list-container {
+    padding-inline: 1rem;
+}
+.page-list .list-container .level-search {
+    box-sizing: border-box;
+
+    width: 100%;
+
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+
+    border: 1px solid #d9dfe7;
+    border-radius: 0.5rem;
+
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 500;
+
+    outline: none;
+}
+
+.page-list .list-container .level-search::placeholder {
+    color: #6b7280;
+}
+
+.page-list .list-container .level-search:focus {
+    border-color: #b8c0cc;
+}
