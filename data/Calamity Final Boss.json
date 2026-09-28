@@ -13,9 +13,14 @@
             "link": "https://www.youtube.com/watch?v=cw4wJs2NVwg",
             "percent": 100
         },
-                      {
+        {
             "user": "SomeRandomPrsn",
             "link": "https://www.youtube.com/watch?v=sdDW7DDf50U",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/AZPLQUVyB7w",
             "percent": 100
         }
     ]

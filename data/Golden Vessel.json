@@ -17,6 +17,11 @@
             "user": "SomeRandomPrsn",
             "link": "https://www.youtube.com/watch?v=gTLKXxZ6WAo",
             "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/u0K04Ly3kyk",
+            "percent": 100
         }
     ]
 }

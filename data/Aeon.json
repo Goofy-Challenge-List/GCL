@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/B4M8XnUtwKw",
+            "percent": 100
+        }
     ]
 }
