@@ -12,6 +12,11 @@
             "user": "SomeRandomPrsn",
             "link": "https://youtu.be/7uqmhDs1Abs",
             "percent": 100
+        },
+        {
+            "user": "DarkElixir02",
+            "link": "https://www.youtube.com/watch?v=gUMWm9IKtM4",
+            "percent": 100
         }
     ]
 }
