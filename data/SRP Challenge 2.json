@@ -8,9 +8,14 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-                   {
+            {
             "user": "Sf7",
             "link": "https://youtu.be/VlGqMtO4YIc",
+            "percent": 100
+        },
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/CcuzV9SBaIg",
             "percent": 100
         }
     ]
