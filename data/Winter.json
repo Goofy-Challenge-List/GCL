@@ -9,6 +9,11 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "SomeRandomPrsn",
+            "link": "https://youtu.be/x5f47UbXAS8?si=G1T7iYkA4AmvY7oA",
+            "percent": 100
+        },
+        {
             "user": "Geoxis",
             "link": "https://youtu.be/hI9NzOTXH8U",
             "percent": 100
