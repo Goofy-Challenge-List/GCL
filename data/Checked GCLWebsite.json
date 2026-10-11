@@ -1,0 +1,17 @@
+{
+    "id": 150008583,
+    "name": "Checked GCLWebsite",
+    "author": "Geoxis",
+    "creators": ["Dylesxia"],
+    "verifier": "Geoxis",
+    "verification": "https://youtu.be/RBjYhn-yKK8",
+    "percentToQualify": "61",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "SomeRandomPrsn",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
