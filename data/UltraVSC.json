@@ -8,5 +8,16 @@
     "percentToQualify": "47",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Geoxis",
+            "link": "https://youtu.be/o-e8SxhIa60",
+            "percent": 100
+        },
+        {
+            "user": "EpicPotatoesGMD",
+            "link": "https://youtu.be/t4JtYc8W09I?si=3BPVD7M8vt5ztGDU",
+            "percent": 100
+        }
+
 ]
 }
